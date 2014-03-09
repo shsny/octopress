@@ -2,6 +2,10 @@ require "rubygems"
 require "bundler/setup"
 require "stringex"
 
+## -- S3 Deploy config -- ##
+s3_config = "~/.s3cfg.shsny"
+s3_bucket = "s3://xyzzy.shsny.org"
+
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "user@domain.com"
@@ -247,6 +251,13 @@ task :rsync do
   puts "## Deploying website via Rsync"
   ok_failed system("rsync -avze 'ssh -p #{ssh_port}' #{exclude} #{rsync_args} #{"--delete" unless rsync_delete == false} #{public_dir}/ #{ssh_user}:#{document_root}")
 end
+
+desc "Deploy website via s3cmd"
+task :dist do
+  Rake::Task[:generate].invoke()
+  puts "## Uploading site to S3"
+  ok_failed system("./s3cmd -c #{s3_config} -v sync --delete-removed public/. #{s3_bucket}")
+end  
 
 desc "deploy public directory to github pages"
 multitask :push do
