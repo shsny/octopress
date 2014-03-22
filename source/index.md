@@ -14,18 +14,34 @@ SHSNY is an Affiliated Local Group of the Council for Secular Humanism
 and the Atheist Alliance International, and are a Charter Chapter of
 the American Humanist Association.
 
----
+--- 
 
-## Calendar of Events
+## 6th Annual SHSNY Day of Reason Brunch
 
-Unless otherwise noted, all events are free to the public.  Click on
-an event title for its details.
+Sunday, May 4th, 12 Noon, at historic Pete's Tavern
+[129 East 18 Street](http://g.co/maps/h5qtb) (at Irving Place) <br/>
+Brunch, Presentation & Discussion <br/>
+with guest speaker Liz Heywood <br/>
+Religious Overdose: My Survival of Childhood Medical Neglect
 
-<iframe
-   src="http://www.google.com/calendar/embed?showTitle=0&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=b66q4o4ejadtql04rs0uuojm8g%40group.calendar.google.com&amp;color=%23B1440E&amp;ctz=America%2FNew_York"
-   style=" border-width:0 "
-   width="800"
-   height="600"
-   frameborder="0"
-   scrolling="no"
-   ></iframe>
+Liz Heywood grew up in Christian Science and at age 13 was prayed over
+rather than medically treated for a bone disease. As an adult she
+ended years of pain by having a leg amputated, and has since become a
+leading advocate for child victims of religious abuse.
+
+Don't miss her gripping story, and join 40 or more of your fellow
+freethinkers for one of SHSNY's best annual get-togethers.
+
+Brunch is $25, all in. Save 20% ($5) by reserving now.
+
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="MCQCP6XKMYH2E">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+Use your credit card or paypal to prepay. <br/>
+Or mail your check, made out to "SHSNY", to: <br/>
+SHSNY, PO Box 7661, FDR Station, New York, NY 10150-7661. <br/>
+Questions? Call (646) 922-7389, and leave a call-back number.
